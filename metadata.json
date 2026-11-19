@@ -1,0 +1,6 @@
+{
+  "name": "Atharv Lab Calculator",
+  "description": "Personal Laboratory Calculator App with basic, scientific, and local history features",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Atharv Lab Calculator</string>
+    <string name="app_subtitle">LAB INSTRUMENT</string>
+
+    <!-- Mode Tabs -->
+    <string name="mode_basic">Basic</string>
+    <string name="mode_scientific">Scientific</string>
+    <string name="mode_percent">Percent</string>
+
+    <!-- Angle Modes -->
+    <string name="angle_deg">DEG</string>
+    <string name="angle_rad">RAD</string>
+
+    <!-- Actions & Accessibility -->
+    <string name="cd_toggle_history">Open calculation history</string>
+    <string name="cd_toggle_theme">Toggle dark and light mode</string>
+    <string name="cd_copy_result">Copy result to clipboard</string>
+    <string name="cd_delete_char">Delete last character</string>
+    <string name="cd_clear_all">Clear all input</string>
+    <string name="cd_clear_history">Clear all calculation history</string>
+    <string name="cd_delete_history_item">Delete history entry</string>
+    <string name="cd_reuse_expression">Reuse expression</string>
+    <string name="cd_close_history">Close history</string>
+    <string name="cd_toggle_angle_unit">Switch between degrees and radians</string>
+
+    <!-- Display Labels -->
+    <string name="display_ready">READY</string>
+    <string name="copied_to_clipboard">Result copied</string>
+    <string name="saved_to_history">Saved to history</string>
+    <string name="history_cleared">History cleared</string>
+
+    <!-- History -->
+    <string name="history_title">Calculation History</string>
+    <string name="history_clear_action">Clear All</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_subtitle">Completed calculations are automatically saved locally on this device.</string>
+    <string name="history_local_badge">LOCAL ONLY</string>
+    <string name="history_tap_hint">Tap result to use · Icon to edit formula</string>
+    <string name="history_count_entries">%1$d entries</string>
+
+    <!-- Clear History Confirmation Dialog -->
+    <string name="dialog_clear_history_title">Clear calculation history?</string>
+    <string name="dialog_clear_history_message">This will permanently remove all saved calculations from local storage on this device.</string>
+    <string name="dialog_confirm_clear">Clear History</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <!-- Percentage Calculator -->
+    <string name="percent_mode_of">% of Value</string>
+    <string name="percent_mode_what">What %</string>
+    <string name="percent_mode_change">% Change</string>
+    <string name="percent_label_percentage">Percentage (%)</string>
+    <string name="percent_label_base_value">Base Value</string>
+    <string name="percent_label_part_value">Part Value</string>
+    <string name="percent_label_whole_value">Total Value</string>
+    <string name="percent_label_initial_value">Initial Value</string>
+    <string name="percent_label_final_value">Final Value</string>
+    <string name="percent_result_label">COMPUTED RESULT</string>
+    <string name="percent_save_history">Save to History</string>
+    <string name="percent_reset">Reset</string>
+    <string name="percent_use_in_calc">Send to Calculator</string>
+    <string name="percent_hint_enter_values">Enter both values to compute</string>
+
+    <!-- Errors -->
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="error_domain">Math domain error</string>
+    <string name="error_overflow">Value out of range</string>
+    <string name="error_syntax">Invalid expression</string>
+</resources>
